@@ -33,13 +33,13 @@
 ### :trophy: Достижения:
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=SmetanaKaktus" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MariaMuraveva" alt=""/>
 </div>
 
 ### :keyboard: Наиболее используемые языки:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmetanaKaktus" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMuraveva" alt=""/>
 </div>
 
 ### :bar_chart: Статистика активности:
