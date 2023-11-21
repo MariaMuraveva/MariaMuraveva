@@ -14,6 +14,39 @@
  <h1> Профиль на GITHUB </h1>
 </div>
 
+### :woman_student: обо мне:
+
+- :zany_face: факт обо мне
+
+- :kissing_cat: факт обо мне
+  
+- :sleeping_bed: факт обо мне
+### :hammer_and_wrench: Языки и инструменты :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</div>
+
+### :trophy: Достижения:
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=SmetanaKaktus" alt=""/>
+</div>
+
+### :keyboard: Наиболее используемые языки:
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmetanaKaktus" alt=""/>
+</div>
+
+### :bar_chart: Статистика активности:
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmetanaKaktus&theme=react-dark" alt=""/>
+</div>
 
 
 
