@@ -45,7 +45,7 @@
 ### :bar_chart: Статистика активности:
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmetanaKaktus&theme=react-dark" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaMuraveva&theme=react-dark" alt=""/>
 </div>
 
 
